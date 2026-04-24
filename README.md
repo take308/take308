@@ -4,7 +4,7 @@
 - 名前：竹藤　樹（Takefuji Itsuki）
 - 所属：愛媛大学大学院理工学研究科 理工学専攻
         数理情報プログラム 計算言語学研究室M1
-- e-mail:takefuji@ai.cs.ehime-u.ac.jp 
+- e-mail：takefuji@ai.cs.ehime-u.ac.jp 
 
 ## 研究業績
 ### 国内会議
