@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&width=500&lines=Welcome+to+my+page!" />
 
 ## プロフィール
-- 名前：竹藤　樹（Takefuji Itsuki）
+- 名前：竹藤 樹（Itsuki Takefuji）
 - 所属：愛媛大学大学院理工学研究科 理工学専攻
         数理情報プログラム 計算言語学研究室M1
 - e-mail：takefuji@ai.cs.ehime-u.ac.jp 
