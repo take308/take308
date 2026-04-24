@@ -12,4 +12,4 @@
 動画を用いた料理手順の動詞の機械翻訳<br>
 言語処理学会第32回年次大会（NLP），March 2026
 
-    
+<img src="https://streak-stats.demolab.com?user=take308&theme=tokyonight&hide_border=false&date_format=%5BY%20%5DM%20j" />   
