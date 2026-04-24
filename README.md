@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&width=500&lines=Welcome+to+my+page." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&width=500&lines=Welcome+to+my+page!" />
 
 ## プロフィール
 - 名前：竹藤　樹（Takefuji Itsuki）
