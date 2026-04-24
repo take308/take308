@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&width=500&lines=Shopify+Expert;Web+Developer;From+JSDF+to+Engineer" />
+
 ## プロフィール
 - 名前：竹藤　樹（Takefuji Itsuki）
 - 所属：愛媛大学大学院理工学研究科 理工学専攻
